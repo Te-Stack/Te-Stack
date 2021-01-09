@@ -11,6 +11,7 @@
   <img align="left" alt="Quincy's Mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
 
+<br/>
 
 
 *I am  a Full Stack Developer and a Product Designer currently residing in Nigeria, I am self motivated and i like to make other people to become more of themselves.*
