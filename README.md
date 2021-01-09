@@ -1,5 +1,5 @@
 
-# Heyy! <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="24px" alt="hi"> I a [Quincy Oghentejiri](https://google.com)
+# Heyy! <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="24px" alt="hi"> I am [Quincy Oghentejiri](https://google.com)
 
 <a href="https://twitter.com/Quibcyoghenex">
   <img align ="left" alt="Quincy Oghenetejiri | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
@@ -14,7 +14,7 @@
 <br/>
 
 
-*I am  a Full Stack Developer and a Product Designer currently residing in Nigeria, I am self motivated and i like to make other people to become more of themselves.*
+<p>*I am  a Full Stack Developer and a Product Designer currently residing in Nigeria, I am self motivated and i like to make other people to become more of themselves.*<p/>
 
  
 **Talking about Personal Stuffs:**
