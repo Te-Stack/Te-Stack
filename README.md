@@ -14,7 +14,7 @@
 <br/>
 
 
-<p>*I am  a Full Stack Developer and a Product Designer currently residing in Nigeria, I am self motivated and i like to make other people to become more of themselves.*<p/>
+*I am  a Full Stack Developer and a Product Designer currently residing in Nigeria, I am self motivated and i like to make other people to become more of themselves.*
 
  
 **Talking about Personal Stuffs:**
