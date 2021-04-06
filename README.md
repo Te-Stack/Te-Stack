@@ -14,14 +14,14 @@
 <br/>
 
 
-*I am  a Full Stack Developer and a Product Designer currently residing in Nigeria, I am self motivated and i like to make other people to become more of themselves.*
+*I am  a Full Stack Developer and a UI/UX  Designer currently residing in Nigeria, I am self motivated and i like to make other people to become more of themselves.*
 
  
 **Talking about Personal Stuffs:**
 - 😄 Pronouns: he/him
 - 👨🏽‍💻 I’m currently working on my portfolio website and  maintaining [GELA official website](https://gela.com);
 - 🌱 I’m currently learning Django and React Native ; 
-- 💬 Ask me about anything related to Node,Express and React, I am happy to help;
+- 💬 Ask me about anything related to Node,Express and React(Javascript), I am happy to help;
 - ⚡️ Fun-Fact: I like watching football matches 
 - 📫 How to reach me: ukumakubequincy@gmail.com;
 - 📝[Resume]()
