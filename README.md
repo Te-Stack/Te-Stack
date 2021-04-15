@@ -16,7 +16,7 @@
 
 *I am  a Full Stack Developer and a UI/UX  Designer currently residing in Nigeria, I am self motivated and i like to make other people to become more of themselves.*
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Te-Stack&label=Profile%20views&color=0e75b6&style=flat" alt="evavic44" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Te-Stack&label=Profile%20views&color=0e75b6&style=flat" alt="Te-Stack" /> </p>
  
 **Talking about Personal Stuffs:**
 - 😄 Pronouns: he/him
@@ -27,6 +27,7 @@
 - 📫 How to reach me: ukumakubequincy@gmail.com;
 - 📝[Resume]()
  
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Te-Stack&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="Te-Stack" /></p>
 
 
 ![Quincy's github stats](https://github-readme-stats.vercel.app/api?username=Te-Stack&show_icons=true&hide_border=true)
