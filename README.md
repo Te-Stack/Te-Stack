@@ -16,8 +16,7 @@
 
 *I am  a Full Stack Developer and a UI/UX  Designer currently residing in Nigeria, I am self motivated and i like to make other people to become more of themselves.*
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Te-Stack&label=Profile%20views&color=0e75b6&style=flat" alt="Te-Stack" /> </p>
- 
+
 **Talking about Personal Stuffs:**
 - 😄 Pronouns: he/him
 - 👨🏽‍💻 I’m currently working on my portfolio website and  maintaining [GELA official website](https://gela.com);
