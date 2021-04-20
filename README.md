@@ -19,7 +19,7 @@
 
 **Talking about Personal Stuffs:**
 - 😄 Pronouns: he/him
-- 👨🏽‍💻 I’m currently working on my portfolio website and  maintaining [GELA official website](https://gela.com);
+- 👨🏽‍💻 I’m currently working on my portfolio website and  maintaining [GELA official website](https://gelaofficial.com);
 - 🌱 I’m currently learning Django and React Native ; 
 - 💬 Ask me about anything related to Node,Express and React(Javascript), I am happy to help;
 - ⚡️ Fun-Fact: I like watching football matches 
