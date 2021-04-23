@@ -23,7 +23,7 @@
 - 🌱 I’m currently learning Django and React Native ; 
 - 💬 Ask me about anything related to Node,Express and React(Javascript), I am happy to help;
 - ⚡️ Fun-Fact: I like watching football matches 
-- 📫 Reacg out to me: ukumakubequincy@gmail.com;
+- 📫 Reach out to me: ukumakubequincy@gmail.com;
 - 📝[Resume](https://drive.google.com/file/d/14-QEh_ZNDZL-AjH0v9LQq-LmlsOk59cZ/view?usp=drivesdk)
  
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Te-Stack&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="Te-Stack" /></p>
