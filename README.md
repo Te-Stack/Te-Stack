@@ -14,13 +14,13 @@
 <br/>
 
 
-*I am  a Full Stack Developer and a UI/UX  Designer currently residing in Nigeria, I am self motivated and i like to make other people to become more of themselves.*
+*I am  a Full Stack Developer currently residing in Benin-City,Nigeria,I am a 300l Biochemistry Student wwho loves creating technological solutions to problem .*
 
 
 **Talking about Personal Stuffs:**
 - 😄 Pronouns: he/him
 - 👨🏽‍💻 I’m currently working on my portfolio website and  maintaining [GELA official website](https://gelaofficial.com);
-- 🌱 I’m currently learning Django and React Native ; 
+- 🌱 I’m currently learning Django,Next.js and Data Structure and Algorithm, Check out my blog [here](https://quincy-oghenetejiri.hashnode.dev/) ; 
 - 💬 Ask me about anything related to Node,Express and React(Javascript), I am happy to help;
 - ⚡️ Fun-Fact: I like watching football matches 
 - 📫 Reach out to me: ukumakubequincy@gmail.com;
