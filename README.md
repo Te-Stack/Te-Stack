@@ -14,7 +14,7 @@
 <br/>
 
 
-*I am  a Full Stack Developer currently residing in Benin-City,Nigeria,I am a 300l Biochemistry Student wwho loves creating technological solutions to problems .*
+*I am  a Full Stack Developer currently residing in Benin-City,Nigeria,I am a 300l Biochemistry Student who loves creating technological solutions to problems .*
 
 
 **Talking about Personal Stuffs:**
@@ -29,7 +29,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Te-Stack&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="Te-Stack" /></p>
 
 
-![Quincy's github stats](https://github-readme-stats.vercel.app/api?username=Te-Stack&show_icons=true&hide_border=true)
+![Quincy's github stats](https://github-readme-stats.vercel.app/api?username=Te-Stack&show_icons=true&theme=tokyonight&locale=en)
 
 
 
