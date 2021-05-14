@@ -1,5 +1,5 @@
 
-# Heyy! <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="24px" alt="hi"> I am [ Quincy Oghenetejiri](https://quincy-oghenetejiri.netlify.app)
+# Heyy! <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="24px" alt="hi"> I am [Ukumakube  Quincy Oghenetejiri](https://quincy-oghenetejiri.netlify.app)
 
 <a href="https://twitter.com/Quincyoghenex">
   <img align ="left" alt="Quincy Oghenetejiri | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
