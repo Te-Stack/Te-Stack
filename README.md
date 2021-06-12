@@ -19,7 +19,7 @@
 
 **Talking about Personal Stuffs:**
 - 😄 Pronouns: he/him
-- 👨🏽‍💻 I’m currently working on my portfolio website;
+- 👨🏽‍💻 Currently open to remote oportunities and onsite gigs around Benin City ;
 - 🌱 I’m currently learning Django,Next.js and Data Structure and Algorithm, Check out my blog [here](https://quincy-oghenetejiri.hashnode.dev/) ; 
 - 💬 Ask me about anything related to Node,Express and React(Javascript), I am happy to help;
 - ⚡️ Fun-Fact: I like watching football matches 
