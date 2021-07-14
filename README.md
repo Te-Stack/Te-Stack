@@ -14,7 +14,7 @@
 <br/>
 
 
-*I am  a Full Stack Developer currently residing in Benin-City,Nigeria,a 300l Biochemistry Student of the University of Benin who loves creating technological solutions to life  problems .*
+*I am  a Full Stack Developer currently residing in Benin-City,Nigeria,a Final Year Biochemistry Student of the University of Benin who loves creating technological solutions to life  problems .*
 
 
 **Talking about Personal Stuffs:**
