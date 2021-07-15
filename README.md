@@ -19,7 +19,7 @@
 
 **Talking about Personal Stuffs:**
 - 😄 Pronouns: he/him
-- 👨🏽‍💻 Currently open to remote oportunities and onsite gigs around Benin City ;
+- 👨🏽‍💻 Currently open to remote oportunities and onsite gigs/jobs around Benin City ;
 - 🌱 I’m currently learning Django,Next.js and Data Structure and Algorithm, Check out my blog [here](https://quincy-oghenetejiri.hashnode.dev/) ; 
 - 💬 Ask me about anything related to Node,Express and React(Javascript), I am happy to help;
 - ⚡️ Fun-Fact: I like watching football matches 
@@ -30,6 +30,11 @@
 
 
 ![Quincy's github stats](https://github-readme-stats.vercel.app/api?username=Te-Stack&show_icons=true&theme=tokyonight&locale=en&count_private=true)
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Te-Stack)  
+
+
+
 
 
 
