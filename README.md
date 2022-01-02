@@ -14,14 +14,14 @@
 <br/>
 
 
-*I am  a Full Stack Developer currently residing in Benin-City,Nigeria,a Final Year Biochemistry Student of the University of Benin who loves creating technological solutions to life  problems .*
+*I am  a Front End Developer currently residing in Benin-City,Nigeria,a Final Year Biochemistry Student of the University of Benin who loves creating beautiful web layout.*
 
 
 **Talking about Personal Stuffs:**
 - 😄 Pronouns: he/him
 - 👨🏽‍💻 Currently open to remote oportunities and onsite gigs/jobs around Benin City ;
-- 🌱 I’m currently learning Django,Next.js and Data Structure and Algorithm, Check out my blog [here](https://quincy-oghenetejiri.hashnode.dev/) ; 
-- 💬 Ask me about anything related to Node,Express and React(Javascript), I am happy to help;
+- 🌱 I’m currently learning Gatby.js,Vue.js and Data Structure and Algorithm, Check out my blog [here](https://quincy-oghenetejiri.hashnode.dev/) ; 
+- 💬 Ask me about anything related to HTML,CSS and React.js, I am happy to help;
 - ⚡️ Fun-Fact: I like watching football matches 
 - 📫 Reach out to me: ukumakubequincy@gmail.com;
 - 📝[Resume](https://drive.google.com/file/d/14-QEh_ZNDZL-AjH0v9LQq-LmlsOk59cZ/view?usp=drivesdk)
