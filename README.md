@@ -24,7 +24,7 @@
 - 💬 Ask me about anything related to HTML,CSS and React.js, I am happy to help;
 - ⚡️ Fun-Fact: I like watching football matches 
 - 📫 Reach out to me: ukumakubequincy@gmail.com;
-- 📝[Resume](https://drive.google.com/file/d/14-QEh_ZNDZL-AjH0v9LQq-LmlsOk59cZ/view?usp=drivesdk)
+- 📝[Resume](https://drive.google.com/file/d/14DGFbEjVfw7uCetGnsJGYQxxQpM2S3tD/view?usp=drivesdk)
  
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Te-Stack&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="Te-Stack" /></p>
 
