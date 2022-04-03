@@ -21,7 +21,7 @@
 - 😄 Pronouns: he/him
 - 👨🏽‍💻 Currently open to remote oportunities and onsite gigs/jobs around Benin City ;
 - 🌱 I’m currently learning Data Structure and Algorithm, Check out my blog [here](https://quincyoghenetejiri.hashnode.dev/) ; 
-- 💬 Ask me about anything related to HTML,CSS and React.js, I am happy to help;
+- 💬 Ask me about anything related to  React.js,Gatby.js and Nextjs I am happy to help;
 - ⚡️ Fun-Fact: I like watching football matches 
 - 📫 Reach out to me: ukumakubequincy@gmail.com;
 - 📝[Resume](https://drive.google.com/file/d/14DGFbEjVfw7uCetGnsJGYQxxQpM2S3tD/view?usp=drivesdk)
