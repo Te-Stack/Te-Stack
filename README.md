@@ -24,7 +24,7 @@
 - 💬 Ask me about anything related to  React.js,Gatby.js and Nextjs I am happy to help;
 - ⚡️ Fun-Fact: I like watching football matches 
 - 📫 Reach out to me: ukumakubequincy@gmail.com;
-- 📝[Resume](https://drive.google.com/file/d/14DGFbEjVfw7uCetGnsJGYQxxQpM2S3tD/view?usp=drivesdk)
+- 📝[Resume](https://drive.google.com/file/d/1AXX_Hr_6IdZFRudYu6JDjjCnaQoKdTJa/view?usp=sharing)
  
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Te-Stack&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="Te-Stack" /></p>
 
