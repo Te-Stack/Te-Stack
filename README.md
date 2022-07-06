@@ -1,5 +1,5 @@
 
-# Heyy! <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="24px" alt="hi"> I am [Ukumakube  Quincy Oghenetejiri](https://quincyoghenetejiri.me)
+# Heyy! <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="24px" alt="hi"> I am [Ukumakube  Quincy Oghenetejiri](https://quincyoghenetejiri.vercel.app/)
 
 <a href="https://twitter.com/Quincyoghenex">
   <img align ="left" alt="Quincy Oghenetejiri | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
@@ -24,7 +24,7 @@
 - 💬 Ask me about anything related to  React.js,Gatby.js and Nextjs I am happy to help;
 - ⚡️ Fun-Fact: I like watching football matches 
 - 📫 Reach out to me: ukumakubequincy@gmail.com;
-- 📝[Resume](https://drive.google.com/file/d/1AXX_Hr_6IdZFRudYu6JDjjCnaQoKdTJa/view?usp=sharing)
+- 📝[Resume](https://drive.google.com/file/d/1Tn_eD2vXGwqg6ECu1qL_h-8K1T1d2jZj/view?usp=sharing)
  
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Te-Stack&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="Te-Stack" /></p>
 
