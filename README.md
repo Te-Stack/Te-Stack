@@ -19,8 +19,7 @@
 - [How to get the length of a list in Python](https://www.cherryservers.com/blog/python-list-length)
 - [How to use Redux toolkit to manage State in your React application. ](https://www.freecodecamp.org/news/use-redux-toolkit-to-manage-state-in-react-apps/)
 - [Making use of React Query in Fetching Data and adding pagination for performance optimization in React](https://quincyoghenetejiri.hashnode.dev/making-use-of-react-query-in-fetching-data-and-adding-pagination-for-performance-optimization-in-react)
-- [Writing Maintainable Tests in React using React testing Libary ](https://quincyoghenetejiri.hashnode.dev/writing-maintainable-tests-in-react-using-the-react-testing-library)
-- 
+- [Writing Maintainable Tests in React using React testing Libary ](https://quincyoghenetejiri.hashnode.dev/writing-maintainable-tests-in-react-using-the-react-testing-library) 
 
  
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Te-Stack&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="Te-Stack" /></p>
